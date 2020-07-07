@@ -1,0 +1,24 @@
+.main {
+  margin: 0;
+}
+.mainContent {
+  margin: 5%;
+}
+.mainContent__photo {
+  width: 50%;
+  height: 100%;
+  box-shadow:5px 5px 15px #2B1015;
+  float: left;
+  margin-right: 5%;
+  margin-bottom: 5%;
+}
+.mainContent__description {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  margin-left: 5%;
+}
+.mainContent__title {
+  color: #2D7DD2;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+}

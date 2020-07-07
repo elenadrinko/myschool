@@ -1,0 +1,16 @@
+.main {
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+.lesson_name {
+  margin: 2%;
+  color: #2D7DD2;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+}
+.lesson__img {
+  width: 100%;
+  height: 100%;
+}

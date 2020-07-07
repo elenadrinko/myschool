@@ -1,0 +1,75 @@
+.main {
+  margin: 0;
+}
+.lk_imgDec {
+  text-align: center;
+}
+.lk_img {
+  width: 100%;
+}
+.lk_name {
+  margin: 2% 2% 0;
+  display: flex;
+  color: #000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+.lk_nameItem {
+  color: #2D7DD2;
+  font-weight: bold;
+}
+.lk_class {
+  margin: 0 2%;
+  display: flex;
+  color: #000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+.lk_classItem {
+  color: #2D7DD2;
+  font-weight: bold;
+}
+.result {
+  margin: 2%;
+  text-align: center;
+}
+.resultsTest {
+  display: flex;
+  flex-direction: column;
+  margin: 1%;
+}
+.resultsTest_table {
+  color: #000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  border: 1px solid black;
+  padding: 1%;
+}
+.resultsTest_title {
+  color: #2D7DD2;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+}
+.lk_sertific {
+  display: flex;
+  flex-direction: column;
+  margin: 1%;
+}
+.lk_sertificItem {
+  color: #2D7DD2;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+}
+.lk_sertificImg {
+  text-align: center;
+}
+.lk_sertificText {
+  color: #000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  text-align: center;
+}

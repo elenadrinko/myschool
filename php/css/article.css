@@ -1,0 +1,27 @@
+.main {
+  margin: 0;
+}
+#oneArticle {
+  margin: 2%;
+}
+.img {
+  text-align: center;
+}
+.oneArticle_img {
+  width: 40%;
+  height: 40%;
+}
+.oneArticle_title {
+  text-align: center;
+  color: #2D7DD2;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.oneArticle_full {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #000;
+  margin: 2%;
+}
