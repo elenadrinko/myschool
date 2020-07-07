@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="Width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Школа вожатых</title>
+    <link rel="stylesheet" href="./index-main.css" type="text/css"/>
+  </head>
+  <body class="main">
+    <div class="formAuth">
+        <p class="formAuth__title">Вход</p>
+        <form class="formAuth__form" action="php/auth.php" method="post">
+          <input type="text" class="formAuth__input" name="login" 
+          id="login" placeholder="Введите логин"><br>
+          <input type="password" class="formAuth__input" name="pass" 
+          id="pass" placeholder="Введите пароль"><br>
+          <button class="formAuth__button" type="submit">Войти</button>
+        </form>
+    </div>
+  </body>
+</html>
